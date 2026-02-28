@@ -12,6 +12,7 @@ Erkennt handgeschriebene Buchstaben mit einem CNN-Modell und einer GUI.
    - `Letters_A-M.zip`
    - `Letters_N-Z.zip`
    -  Python-Dateien
+     
    Beide ZIP-Dateien entpacken in denselben Ordner, in dem auch die Python-Dateien liegen.
 3. Abhängigkeiten installieren: pip install numpy tensorflow pillow matplotlib
 
